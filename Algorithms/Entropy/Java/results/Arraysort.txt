@@ -1,0 +1,222 @@
+Standard Algorithm ; Vector 1; Sorted 10%; Size 100000; Elapsed time 47 ms
+
+Standard Algorithm ; Vector 2; Sorted 10%; Size 100000; Elapsed time 25 ms
+
+Standard Algorithm ; Vector 3; Sorted 10%; Size 100000; Elapsed time 28 ms
+
+Standard Algorithm ; Vector 4; Sorted 10%; Size 100000; Elapsed time 0 ms
+
+Standard Algorithm ; Vector 5; Sorted 10%; Size 100000; Elapsed time 15 ms
+
+Standard Algorithm ; Vector 6; Sorted 10%; Size 100000; Elapsed time 0 ms
+
+Standard Algorithm ; Vector 7; Sorted 10%; Size 100000; Elapsed time 15 ms
+
+Standard Algorithm ; Vector 8; Sorted 10%; Size 100000; Elapsed time 16 ms
+
+Standard Algorithm ; Vector 9; Sorted 10%; Size 100000; Elapsed time 0 ms
+
+Standard Algorithm ; Vector 10; Sorted 10%; Size 100000; Elapsed time 0 ms
+
+Average time: 14 ms
+
+
+
+Standard Algorithm ; Vector 1; Sorted 10%; Size 500000; Elapsed time 47 ms
+
+Standard Algorithm ; Vector 2; Sorted 10%; Size 500000; Elapsed time 32 ms
+
+Standard Algorithm ; Vector 3; Sorted 10%; Size 500000; Elapsed time 33 ms
+
+Standard Algorithm ; Vector 4; Sorted 10%; Size 500000; Elapsed time 48 ms
+
+Standard Algorithm ; Vector 5; Sorted 10%; Size 500000; Elapsed time 46 ms
+
+Standard Algorithm ; Vector 6; Sorted 10%; Size 500000; Elapsed time 45 ms
+
+Standard Algorithm ; Vector 7; Sorted 10%; Size 500000; Elapsed time 47 ms
+
+Standard Algorithm ; Vector 8; Sorted 10%; Size 500000; Elapsed time 37 ms
+
+Standard Algorithm ; Vector 9; Sorted 10%; Size 500000; Elapsed time 33 ms
+
+Standard Algorithm ; Vector 10; Sorted 10%; Size 500000; Elapsed time 47 ms
+
+Average time: 41 ms
+
+
+
+Standard Algorithm ; Vector 1; Sorted 10%; Size 1000000; Elapsed time 101 ms
+
+Standard Algorithm ; Vector 2; Sorted 10%; Size 1000000; Elapsed time 100 ms
+
+Standard Algorithm ; Vector 3; Sorted 10%; Size 1000000; Elapsed time 100 ms
+
+Standard Algorithm ; Vector 4; Sorted 10%; Size 1000000; Elapsed time 101 ms
+
+Standard Algorithm ; Vector 5; Sorted 10%; Size 1000000; Elapsed time 100 ms
+
+Standard Algorithm ; Vector 6; Sorted 10%; Size 1000000; Elapsed time 105 ms
+
+Standard Algorithm ; Vector 7; Sorted 10%; Size 1000000; Elapsed time 100 ms
+
+Standard Algorithm ; Vector 8; Sorted 10%; Size 1000000; Elapsed time 109 ms
+
+Standard Algorithm ; Vector 9; Sorted 10%; Size 1000000; Elapsed time 100 ms
+
+Standard Algorithm ; Vector 10; Sorted 10%; Size 1000000; Elapsed time 100 ms
+
+Average time: 101 ms
+
+
+
+
+-----------------------------------------
+
+
+Standard Algorithm ; Vector 1; Sorted 50%; Size 100000; Elapsed time 0 ms
+
+Standard Algorithm ; Vector 2; Sorted 50%; Size 100000; Elapsed time 0 ms
+
+Standard Algorithm ; Vector 3; Sorted 50%; Size 100000; Elapsed time 16 ms
+
+Standard Algorithm ; Vector 4; Sorted 50%; Size 100000; Elapsed time 16 ms
+
+Standard Algorithm ; Vector 5; Sorted 50%; Size 100000; Elapsed time 15 ms
+
+Standard Algorithm ; Vector 6; Sorted 50%; Size 100000; Elapsed time 16 ms
+
+Standard Algorithm ; Vector 7; Sorted 50%; Size 100000; Elapsed time 22 ms
+
+Standard Algorithm ; Vector 8; Sorted 50%; Size 100000; Elapsed time 0 ms
+
+Standard Algorithm ; Vector 9; Sorted 50%; Size 100000; Elapsed time 0 ms
+
+Standard Algorithm ; Vector 10; Sorted 50%; Size 100000; Elapsed time 0 ms
+
+Average time: 8 ms
+
+
+
+Standard Algorithm ; Vector 1; Sorted 50%; Size 500000; Elapsed time 37 ms
+
+Standard Algorithm ; Vector 2; Sorted 50%; Size 500000; Elapsed time 47 ms
+
+Standard Algorithm ; Vector 3; Sorted 50%; Size 500000; Elapsed time 38 ms
+
+Standard Algorithm ; Vector 4; Sorted 50%; Size 500000; Elapsed time 31 ms
+
+Standard Algorithm ; Vector 5; Sorted 50%; Size 500000; Elapsed time 38 ms
+
+Standard Algorithm ; Vector 6; Sorted 50%; Size 500000; Elapsed time 46 ms
+
+Standard Algorithm ; Vector 7; Sorted 50%; Size 500000; Elapsed time 38 ms
+
+Standard Algorithm ; Vector 8; Sorted 50%; Size 500000; Elapsed time 32 ms
+
+Standard Algorithm ; Vector 9; Sorted 50%; Size 500000; Elapsed time 38 ms
+
+Standard Algorithm ; Vector 10; Sorted 50%; Size 500000; Elapsed time 31 ms
+
+Average time: 37 ms
+
+
+
+Standard Algorithm ; Vector 1; Sorted 50%; Size 1000000; Elapsed time 79 ms
+
+Standard Algorithm ; Vector 2; Sorted 50%; Size 1000000; Elapsed time 78 ms
+
+Standard Algorithm ; Vector 3; Sorted 50%; Size 1000000; Elapsed time 85 ms
+
+Standard Algorithm ; Vector 4; Sorted 50%; Size 1000000; Elapsed time 86 ms
+
+Standard Algorithm ; Vector 5; Sorted 50%; Size 1000000; Elapsed time 84 ms
+
+Standard Algorithm ; Vector 6; Sorted 50%; Size 1000000; Elapsed time 100 ms
+
+Standard Algorithm ; Vector 7; Sorted 50%; Size 1000000; Elapsed time 96 ms
+
+Standard Algorithm ; Vector 8; Sorted 50%; Size 1000000; Elapsed time 69 ms
+
+Standard Algorithm ; Vector 9; Sorted 50%; Size 1000000; Elapsed time 99 ms
+
+Standard Algorithm ; Vector 10; Sorted 50%; Size 1000000; Elapsed time 84 ms
+
+Average time: 86 ms
+
+
+
+
+-----------------------------------------
+
+
+Standard Algorithm ; Vector 1; Sorted 90%; Size 100000; Elapsed time 0 ms
+
+Standard Algorithm ; Vector 2; Sorted 90%; Size 100000; Elapsed time 15 ms
+
+Standard Algorithm ; Vector 3; Sorted 90%; Size 100000; Elapsed time 0 ms
+
+Standard Algorithm ; Vector 4; Sorted 90%; Size 100000; Elapsed time 0 ms
+
+Standard Algorithm ; Vector 5; Sorted 90%; Size 100000; Elapsed time 5 ms
+
+Standard Algorithm ; Vector 6; Sorted 90%; Size 100000; Elapsed time 0 ms
+
+Standard Algorithm ; Vector 7; Sorted 90%; Size 100000; Elapsed time 16 ms
+
+Standard Algorithm ; Vector 8; Sorted 90%; Size 100000; Elapsed time 0 ms
+
+Standard Algorithm ; Vector 9; Sorted 90%; Size 100000; Elapsed time 16 ms
+
+Standard Algorithm ; Vector 10; Sorted 90%; Size 100000; Elapsed time 0 ms
+
+Average time: 5 ms
+
+
+
+Standard Algorithm ; Vector 1; Sorted 90%; Size 500000; Elapsed time 24 ms
+
+Standard Algorithm ; Vector 2; Sorted 90%; Size 500000; Elapsed time 15 ms
+
+Standard Algorithm ; Vector 3; Sorted 90%; Size 500000; Elapsed time 16 ms
+
+Standard Algorithm ; Vector 4; Sorted 90%; Size 500000; Elapsed time 34 ms
+
+Standard Algorithm ; Vector 5; Sorted 90%; Size 500000; Elapsed time 15 ms
+
+Standard Algorithm ; Vector 6; Sorted 90%; Size 500000; Elapsed time 16 ms
+
+Standard Algorithm ; Vector 7; Sorted 90%; Size 500000; Elapsed time 32 ms
+
+Standard Algorithm ; Vector 8; Sorted 90%; Size 500000; Elapsed time 15 ms
+
+Standard Algorithm ; Vector 9; Sorted 90%; Size 500000; Elapsed time 16 ms
+
+Standard Algorithm ; Vector 10; Sorted 90%; Size 500000; Elapsed time 21 ms
+
+Average time: 20 ms
+
+
+
+Standard Algorithm ; Vector 1; Sorted 90%; Size 1000000; Elapsed time 53 ms
+
+Standard Algorithm ; Vector 2; Sorted 90%; Size 1000000; Elapsed time 33 ms
+
+Standard Algorithm ; Vector 3; Sorted 90%; Size 1000000; Elapsed time 37 ms
+
+Standard Algorithm ; Vector 4; Sorted 90%; Size 1000000; Elapsed time 47 ms
+
+Standard Algorithm ; Vector 5; Sorted 90%; Size 1000000; Elapsed time 53 ms
+
+Standard Algorithm ; Vector 6; Sorted 90%; Size 1000000; Elapsed time 53 ms
+
+Standard Algorithm ; Vector 7; Sorted 90%; Size 1000000; Elapsed time 47 ms
+
+Standard Algorithm ; Vector 8; Sorted 90%; Size 1000000; Elapsed time 32 ms
+
+Standard Algorithm ; Vector 9; Sorted 90%; Size 1000000; Elapsed time 31 ms
+
+Standard Algorithm ; Vector 10; Sorted 90%; Size 1000000; Elapsed time 35 ms
+
+Average time: 42 ms
+
