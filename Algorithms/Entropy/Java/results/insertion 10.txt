@@ -1,0 +1,79 @@
+Algorithm 1; Vector 1; Sorted 10%; Size 100000; Elapsed time 1554 ms
+
+Algorithm 1; Vector 2; Sorted 10%; Size 100000; Elapsed time 1639 ms
+
+Algorithm 1; Vector 3; Sorted 10%; Size 100000; Elapsed time 1815 ms
+
+Algorithm 1; Vector 4; Sorted 10%; Size 100000; Elapsed time 1975 ms
+
+Algorithm 1; Vector 5; Sorted 10%; Size 100000; Elapsed time 1696 ms
+
+Algorithm 1; Vector 6; Sorted 10%; Size 100000; Elapsed time 1664 ms
+
+Algorithm 1; Vector 7; Sorted 10%; Size 100000; Elapsed time 1658 ms
+
+Algorithm 1; Vector 8; Sorted 10%; Size 100000; Elapsed time 1707 ms
+
+Algorithm 1; Vector 9; Sorted 10%; Size 100000; Elapsed time 1762 ms
+
+Algorithm 1; Vector 10; Sorted 10%; Size 100000; Elapsed time 1772 ms
+
+
+Average time: 1724 ms
+
+
+
+
+-----------------------------------------
+
+
+Algorithm 1; Vector 1; Sorted 50%; Size 100000; Elapsed time 1228 ms
+
+Algorithm 1; Vector 2; Sorted 50%; Size 100000; Elapsed time 1221 ms
+
+Algorithm 1; Vector 3; Sorted 50%; Size 100000; Elapsed time 1235 ms
+
+Algorithm 1; Vector 4; Sorted 50%; Size 100000; Elapsed time 1352 ms
+
+Algorithm 1; Vector 5; Sorted 50%; Size 100000; Elapsed time 1243 ms
+
+Algorithm 1; Vector 6; Sorted 50%; Size 100000; Elapsed time 1287 ms
+
+Algorithm 1; Vector 7; Sorted 50%; Size 100000; Elapsed time 1238 ms
+
+Algorithm 1; Vector 8; Sorted 50%; Size 100000; Elapsed time 1274 ms
+
+Algorithm 1; Vector 9; Sorted 50%; Size 100000; Elapsed time 1267 ms
+
+Algorithm 1; Vector 10; Sorted 50%; Size 100000; Elapsed time 1257 ms
+
+Average time: 1260 ms
+
+
+
+
+-----------------------------------------
+
+
+Algorithm 1; Vector 1; Sorted 90%; Size 100000; Elapsed time 310 ms
+
+Algorithm 1; Vector 2; Sorted 90%; Size 100000; Elapsed time 345 ms
+
+Algorithm 1; Vector 3; Sorted 90%; Size 100000; Elapsed time 318 ms
+
+Algorithm 1; Vector 4; Sorted 90%; Size 100000; Elapsed time 310 ms
+
+Algorithm 1; Vector 5; Sorted 90%; Size 100000; Elapsed time 320 ms
+
+Algorithm 1; Vector 6; Sorted 90%; Size 100000; Elapsed time 316 ms
+
+Algorithm 1; Vector 7; Sorted 90%; Size 100000; Elapsed time 318 ms
+
+Algorithm 1; Vector 8; Sorted 90%; Size 100000; Elapsed time 315 ms
+
+Algorithm 1; Vector 9; Sorted 90%; Size 100000; Elapsed time 318 ms
+
+Algorithm 1; Vector 10; Sorted 90%; Size 100000; Elapsed time 314 m
+s
+Average time: 318 ms
+
