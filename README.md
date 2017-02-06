@@ -1,2 +1,2 @@
 # Assignments
-Projetos de APA
+Projetos para a cadeira de APA do Curso de Ciências da Computação - UFPB

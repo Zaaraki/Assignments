@@ -1,0 +1,108 @@
+Algorithm:  4  | Sort:  10 %  | Vector:  1  | Size:  100000  | Time Sort:  0.018000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  2  | Size:  100000  | Time Sort:  0.019000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  3  | Size:  100000  | Time Sort:  0.018000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  4  | Size:  100000  | Time Sort:  0.018000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  5  | Size:  100000  | Time Sort:  0.018000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  6  | Size:  100000  | Time Sort:  0.019000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  7  | Size:  100000  | Time Sort:  0.017000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  8  | Size:  100000  | Time Sort:  0.018000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  9  | Size:  100000  | Time Sort:  0.018000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  10  | Size:  100000  | Time Sort:  0.018000 seconds
+Average : 0.018100 
+ 
+Algorithm:  4  | Sort:  10 %  | Vector:  1  | Size:  500000  | Time Sort:  0.101000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  2  | Size:  500000  | Time Sort:  0.112000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  3  | Size:  500000  | Time Sort:  0.121000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  4  | Size:  500000  | Time Sort:  0.103000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  5  | Size:  500000  | Time Sort:  0.104000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  6  | Size:  500000  | Time Sort:  0.100000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  7  | Size:  500000  | Time Sort:  0.104000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  8  | Size:  500000  | Time Sort:  0.112000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  9  | Size:  500000  | Time Sort:  0.112000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  10  | Size:  500000  | Time Sort:  0.106000 seconds
+Average : 0.107500 
+ 
+Algorithm:  4  | Sort:  10 %  | Vector:  1  | Size:  1000000  | Time Sort:  0.281000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  2  | Size:  1000000  | Time Sort:  0.230000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  3  | Size:  1000000  | Time Sort:  0.213000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  4  | Size:  1000000  | Time Sort:  0.215000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  5  | Size:  1000000  | Time Sort:  0.214000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  6  | Size:  1000000  | Time Sort:  0.214000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  7  | Size:  1000000  | Time Sort:  0.223000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  8  | Size:  1000000  | Time Sort:  0.212000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  9  | Size:  1000000  | Time Sort:  0.223000 seconds
+Algorithm:  4  | Sort:  10 %  | Vector:  10  | Size:  1000000  | Time Sort:  0.211000 seconds
+Average : 0.223600 
+ 
+Algorithm:  4  | Sort:  50 %  | Vector:  1  | Size:  100000  | Time Sort:  0.016000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  2  | Size:  100000  | Time Sort:  0.016000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  3  | Size:  100000  | Time Sort:  0.018000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  4  | Size:  100000  | Time Sort:  0.016000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  5  | Size:  100000  | Time Sort:  0.016000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  6  | Size:  100000  | Time Sort:  0.017000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  7  | Size:  100000  | Time Sort:  0.018000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  8  | Size:  100000  | Time Sort:  0.017000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  9  | Size:  100000  | Time Sort:  0.017000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  10  | Size:  100000  | Time Sort:  0.016000 seconds
+Average : 0.016700 
+ 
+Algorithm:  4  | Sort:  50 %  | Vector:  1  | Size:  500000  | Time Sort:  0.088000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  2  | Size:  500000  | Time Sort:  0.089000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  3  | Size:  500000  | Time Sort:  0.099000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  4  | Size:  500000  | Time Sort:  0.104000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  5  | Size:  500000  | Time Sort:  0.093000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  6  | Size:  500000  | Time Sort:  0.097000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  7  | Size:  500000  | Time Sort:  0.095000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  8  | Size:  500000  | Time Sort:  0.107000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  9  | Size:  500000  | Time Sort:  0.107000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  10  | Size:  500000  | Time Sort:  0.100000 seconds
+Average : 0.097900 
+ 
+Algorithm:  4  | Sort:  50 %  | Vector:  1  | Size:  1000000  | Time Sort:  0.207000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  2  | Size:  1000000  | Time Sort:  0.210000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  3  | Size:  1000000  | Time Sort:  0.213000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  4  | Size:  1000000  | Time Sort:  0.190000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  5  | Size:  1000000  | Time Sort:  0.208000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  6  | Size:  1000000  | Time Sort:  0.193000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  7  | Size:  1000000  | Time Sort:  0.199000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  8  | Size:  1000000  | Time Sort:  0.189000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  9  | Size:  1000000  | Time Sort:  0.197000 seconds
+Algorithm:  4  | Sort:  50 %  | Vector:  10  | Size:  1000000  | Time Sort:  0.198000 seconds
+Average : 0.200400 
+ 
+Algorithm:  4  | Sort:  90 %  | Vector:  1  | Size:  100000  | Time Sort:  0.017000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  2  | Size:  100000  | Time Sort:  0.019000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  3  | Size:  100000  | Time Sort:  0.022000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  4  | Size:  100000  | Time Sort:  0.018000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  5  | Size:  100000  | Time Sort:  0.018000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  6  | Size:  100000  | Time Sort:  0.019000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  7  | Size:  100000  | Time Sort:  0.018000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  8  | Size:  100000  | Time Sort:  0.025000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  9  | Size:  100000  | Time Sort:  0.024000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  10  | Size:  100000  | Time Sort:  0.024000 seconds
+Average : 0.020400 
+ 
+Algorithm:  4  | Sort:  90 %  | Vector:  1  | Size:  100000  | Time Sort:  0.019000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  2  | Size:  100000  | Time Sort:  0.022000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  3  | Size:  100000  | Time Sort:  0.020000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  4  | Size:  100000  | Time Sort:  0.018000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  5  | Size:  100000  | Time Sort:  0.017000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  6  | Size:  100000  | Time Sort:  0.018000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  7  | Size:  100000  | Time Sort:  0.015000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  8  | Size:  100000  | Time Sort:  0.024000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  9  | Size:  100000  | Time Sort:  0.021000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  10  | Size:  100000  | Time Sort:  0.020000 seconds
+Average : 0.019400 
+ 
+Algorithm:  4  | Sort:  90 %  | Vector:  1  | Size:  100000  | Time Sort:  0.019000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  2  | Size:  100000  | Time Sort:  0.020000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  3  | Size:  100000  | Time Sort:  0.020000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  4  | Size:  100000  | Time Sort:  0.020000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  5  | Size:  100000  | Time Sort:  0.018000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  6  | Size:  100000  | Time Sort:  0.022000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  7  | Size:  100000  | Time Sort:  0.016000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  8  | Size:  100000  | Time Sort:  0.024000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  9  | Size:  100000  | Time Sort:  0.018000 seconds
+Algorithm:  4  | Sort:  90 %  | Vector:  10  | Size:  100000  | Time Sort:  0.022000 seconds
+Average : 0.019900 
+ 
